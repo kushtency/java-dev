@@ -1,11 +1,11 @@
 # java basics
 
 ## Day - 1
-- Syntax,Refrences
-- DataTypes,Variables
+- [Syntax](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicSyntax.java),[Refrences](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicRefrences.java)
+- [DataTypes,Variables](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicDataTypes.java)
 - Arrays,String
-- Conditionals
-- Loops,Functions
+- [Conditionals](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicConditionalsLoop.java)
+- [Loops](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicConditionalsLoop.java),Functions
 - Classes,Interfaces,Objects
 - Exception-Handling
 - Packages
