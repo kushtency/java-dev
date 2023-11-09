@@ -61,9 +61,12 @@ public class TopicSyntax {
  * 		First letter is capital, space is denoted by
  * 		capital letters. 
  * 		Ex: "Another Class" will be "AnotherClass"
+ * 
  * 	2. Syntax :
- * 		"Access Specifier" "final/_" "class" "ClassName" {
+ * 		"Identifier" "final/_" "class" "ClassName" {
  * 		}
+ * 		the identifier in this case are public, abstract, final.
+ * 
  * 	3. Java Do not permit to make class of Name class
  * 	   because class is a keyword.
  * 
