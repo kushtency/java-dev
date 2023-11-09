@@ -3,11 +3,11 @@
 ## Day - 1
 - [Syntax](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicSyntax.java),[Refrences](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicRefrences.java)
 - [DataTypes,Variables](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicDataTypes.java)
-- Arrays,String
+- [Arrays](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicArrays.java),[String](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicString.java)
 - [Conditionals](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicConditionalsLoop.java)
-- [Loops](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicConditionalsLoop.java),Functions
+- [Loops](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicConditionalsLoop.java),[Functions](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicFunctions.java)
 - Classes,Interfaces,Objects
-- Exception-Handling
+- [Exception-Handling](https://github.com/kushtency/java-dev/blob/java-lang/src/learn/basics/src/dayOneLearn/TopicExceptionHandeling.java)
 - Packages
 
 ## Day - 2
