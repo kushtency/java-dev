@@ -38,6 +38,12 @@ package dayOneLearn;
 
 
 public class TopicRefrences {
+	
+	// passed by value but changed value for every variable pointing to that reference
+	public static void changeName(Human human, String name) {
+		human.name = name;
+	}
+	
 	public static void main(String[] args) {
 		
 		// only in stack pointing to nothing can't be used
@@ -48,12 +54,17 @@ public class TopicRefrences {
 		
 		// properly allocated object
 		Human falcon = new Human();
+		Human f2 = falcon;
+		Human f3 = f2;
+		
+		changeName(f3, "falcon");
 		
 		System.out.println(jade);
 		System.out.println(falcon);
+		System.out.print(falcon.name);
 	}
 }
 
 class Human {
-	
+	public String name = "homosapein";
 }
